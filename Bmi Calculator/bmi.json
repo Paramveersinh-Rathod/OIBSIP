@@ -1,0 +1,44 @@
+{
+    "Prince": {
+        "Age": "19",
+        "Gender": "Male",
+        "BMI": 20.5,
+        "Weight Status": "Healthy Weight"
+    },
+    "Heena": {
+        "Age": "18",
+        "Gender": "Female",
+        "BMI": 24.4,
+        "Weight Status": "Healthy Weight"
+    },
+    "Kanaksinh": {
+        "Age": "45",
+        "Gender": "",
+        "BMI": 24.4,
+        "Weight Status": "Healthy Weight"
+    },
+    "Lalu": {
+        "Age": "14",
+        "Gender": "Male",
+        "BMI": 24.8,
+        "Weight Status": "Healthy Weight"
+    },
+    "Vyomrajsinh": {
+        "Age": "19",
+        "Gender": "Male",
+        "BMI": 20.5,
+        "Weight Status": "Healthy Weight"
+    },
+    "Bhoomi": {
+        "Age": "24",
+        "Gender": "Female",
+        "BMI": 20.6,
+        "Weight Status": "Healthy Weight"
+    },
+    "Paramvir": {
+        "Age": "19",
+        "Gender": "Male",
+        "BMI": 20.5,
+        "Weight Status": "Healthy Weight"
+    }
+}
